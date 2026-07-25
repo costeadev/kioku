@@ -1,0 +1,4 @@
+QPlainTextEdit {
+    padding: 10px;
+    font-family: "Comic Relief";
+}
