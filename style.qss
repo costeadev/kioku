@@ -16,7 +16,7 @@ QWidget {
     border-right: 1px solid #323232;
 }
 
-#editor {
+#textEdit {
     background: #202020;
     padding: 12px;
     font-size: 16px;
